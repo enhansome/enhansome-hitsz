@@ -59,11 +59,11 @@
 
 ### EasyConnect VPN 第三方客户端
 
-* [docker-easyconnect](https://github.com/Hagb/docker-easyconnect) ⭐ 5,414 | 🐛 182 | 🌐 Shell | 📅 2026-03-11
+* [docker-easyconnect](https://github.com/Hagb/docker-easyconnect) ⭐ 5,416 | 🐛 182 | 🌐 Shell | 📅 2026-03-11
   * 使用 Docker 封装 EasyConnect，为宿主机提供 SOCKS5 和 HTTP 代理服务。该项目可以结合 Chrome 插件 ProxyOmega 使用，允许用户灵活管理和切换代理设置。
 
-* [Mythologyli/zju-connect](https://github.com/Mythologyli/zju-connect) ⭐ 724 | 🐛 10 | 🌐 Go | 📅 2026-08-16
-  * 或者使用预先配置好的桌面客户端 [chenx-dust/HITsz-Connect-for-Windows](https://github.com/chenx-dust/HITsz-Connect-for-Windows) ⭐ 427 | 🐛 3 | 🌐 C++ | 📅 2026-08-11
+* [Mythologyli/zju-connect](https://github.com/Mythologyli/zju-connect) ⭐ 725 | 🐛 9 | 🌐 Go | 📅 2026-08-17
+  * 或者使用预先配置好的桌面客户端 [chenx-dust/HITsz-Connect-for-Windows](https://github.com/chenx-dust/HITsz-Connect-for-Windows) ⭐ 427 | 🐛 3 | 🌐 C++ | 📅 2026-08-17
   * 需要将 `server_address` 配置为 `vpn.hitsz.ed.cn`，`zju_dns_server` 配置为 `10.248.98.30`
 
 ### 其他
@@ -95,4 +95,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
