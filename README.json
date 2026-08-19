@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "包含电子版教材、笔记、试卷等，以下排名按项目创建时间升序：",
+      "description": "包含电子版教材、笔记、试卷等，以下排名按项目创建时间升序：\n以下为未有课程攻略的专业的独立项目：",
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 344710309,
             "language": "C",
             "last_commit": "2025-10-26T13:38:03Z",
             "owner": "HITSZ-OpenCS",
             "repo": "HITSZ-OpenCS",
-            "stars": 1906
+            "stars": 1904
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 425513627,
             "language": "HTML",
             "last_commit": "2024-08-05T18:09:26Z",
             "owner": "Mor-Li",
@@ -36,204 +38,222 @@
     },
     {
       "description": "适用于 $\\LaTeX$、Typst 等排版系统的模版。",
-      "items": [],
-      "title": "报告、幻灯片模版"
-    },
-    {
-      "description": "",
       "items": [
         {
-          "node_type": "item",
-          "title": "YangLaTeX/hitszthesis",
-          "description": "：适用于 $\\LaTeX$",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TeX",
-            "last_commit": "2025-03-10T12:39:45Z",
-            "owner": "YangLaTeX",
-            "repo": "hitszthesis",
-            "stars": 359
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hitszosa/universal-hit-thesis",
-          "description": "：适用于 Typst",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Typst",
-            "last_commit": "2026-07-21T16:01:40Z",
-            "owner": "hitszosa",
-            "repo": "universal-hit-thesis",
-            "stars": 62
-          }
-        }
-      ],
-      "title": "学位论文"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "实用程序"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "StupidTrees/HITA_X",
-          "description": "：Android 课表 app",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2025-02-04T03:36:05Z",
-            "owner": "StupidTrees",
-            "repo": "HITA_X",
-            "stars": 70
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Zjl37/jwc.py",
-          "description": "：教务课表转 ICS；大物实验排课辅助",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-17T20:28:10Z",
-            "owner": "Zjl37",
-            "repo": "jwc.py",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rewired-gh/hitsz_course_schedule_ics_converter",
-          "description": "：自动获取与 ICS 生成脚本",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-07-06T01:46:22Z",
-            "owner": "rewired-gh",
-            "repo": "hitsz_course_schedule_ics_converter",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Danielement321/HITSZ_course_2_WakeUp",
-          "description": "：本研课表转换到 WakeUp 课表",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-02-23T03:07:49Z",
-            "owner": "Danielement321",
-            "repo": "HITSZ_course_2_WakeUp",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "课表"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "CH3CHOHCH3/NetworkLogin",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-12-25T10:15:24Z",
-            "owner": "CH3CHOHCH3",
-            "repo": "NetworkLogin",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "group",
-          "title": "博客介绍：新版 HITSZ 校园网的无头登录方式 - HITSZ 自动化课程攻略共享计划",
-          "description": null,
           "children": [
             {
               "node_type": "item",
-              "title": "PageChen04/hitsz-srun-login",
-              "description": "：完全独立的登录程序",
+              "title": "YangLaTeX/hitszthesis",
+              "description": "：适用于 $\\LaTeX$",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "Go",
-                "last_commit": "2026-08-18T08:20:01Z",
-                "owner": "DustinChen04",
-                "repo": "hitsz-srun-login",
-                "stars": 11
+                "id": 240280273,
+                "language": "TeX",
+                "last_commit": "2025-03-10T12:39:45Z",
+                "owner": "YangLaTeX",
+                "repo": "hitszthesis",
+                "stars": 359
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hitszosa/universal-hit-thesis",
+              "description": "：适用于 Typst",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 640575755,
+                "language": "Typst",
+                "last_commit": "2026-07-21T16:01:40Z",
+                "owner": "hitszosa",
+                "repo": "universal-hit-thesis",
+                "stars": 62
               }
             }
-          ]
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "学位论文"
         }
       ],
-      "title": "校园网登录脚本"
+      "title": "报告、幻灯片模版"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "docker-easyconnect",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-03-11T01:46:06Z",
-            "owner": "docker-easyconnect",
-            "repo": "docker-easyconnect",
-            "stars": 5417
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mythologyli/zju-connect",
-          "description": null,
           "children": [
             {
               "node_type": "item",
-              "title": "或者使用预先配置好的桌面客户端 chenx-dust/HITsz-Connect-for-Windows",
+              "title": "StupidTrees/HITA_X",
+              "description": "：Android 课表 app",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 323308967,
+                "language": "Kotlin",
+                "last_commit": "2025-02-04T03:36:05Z",
+                "owner": "StupidTrees",
+                "repo": "HITA_X",
+                "stars": 70
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Zjl37/jwc.py",
+              "description": "：教务课表转 ICS；大物实验排课辅助",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 806107180,
+                "language": "Python",
+                "last_commit": "2026-03-17T20:28:10Z",
+                "owner": "Zjl37",
+                "repo": "jwc.py",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rewired-gh/hitsz_course_schedule_ics_converter",
+              "description": "：自动获取与 ICS 生成脚本",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 776773178,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-07-06T01:46:22Z",
+                "owner": "rewired-gh",
+                "repo": "hitsz_course_schedule_ics_converter",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Danielement321/HITSZ_course_2_WakeUp",
+              "description": "：本研课表转换到 WakeUp 课表",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 937431328,
+                "language": "Python",
+                "last_commit": "2025-02-23T03:07:49Z",
+                "owner": "Danielement321",
+                "repo": "HITSZ_course_2_WakeUp",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "课表"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CH3CHOHCH3/NetworkLogin",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "C++",
-                "last_commit": "2026-08-17T14:12:02Z",
-                "owner": "chenx-dust",
-                "repo": "EZ4Connect",
-                "stars": 428
+                "id": 406283704,
+                "language": "JavaScript",
+                "last_commit": "2023-12-25T10:15:24Z",
+                "owner": "CH3CHOHCH3",
+                "repo": "NetworkLogin",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "博客介绍：新版 HITSZ 校园网的无头登录方式 - HITSZ 自动化课程攻略共享计划",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "PageChen04/hitsz-srun-login",
+                  "description": "：完全独立的登录程序",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1049877256,
+                    "language": "Go",
+                    "last_commit": "2026-08-18T08:20:01Z",
+                    "owner": "DustinChen04",
+                    "repo": "hitsz-srun-login",
+                    "stars": 11
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "校园网登录脚本"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "docker-easyconnect",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 262792027,
+                "language": "Shell",
+                "last_commit": "2026-03-11T01:46:06Z",
+                "owner": "docker-easyconnect",
+                "repo": "docker-easyconnect",
+                "stars": 5417
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mythologyli/zju-connect",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "或者使用预先配置好的桌面客户端 chenx-dust/HITsz-Connect-for-Windows",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 834064081,
+                    "language": "C++",
+                    "last_commit": "2026-08-17T14:12:02Z",
+                    "owner": "chenx-dust",
+                    "repo": "EZ4Connect",
+                    "stars": 429
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 595927717,
+                "language": "Go",
+                "last_commit": "2026-08-18T14:52:27Z",
+                "owner": "Mythologyli",
+                "repo": "zju-connect",
+                "stars": 727
               }
             }
           ],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T14:52:27Z",
-            "owner": "Mythologyli",
-            "repo": "zju-connect",
-            "stars": 726
-          }
+          "description": null,
+          "node_type": "group",
+          "title": "EasyConnect VPN 第三方客户端"
         }
       ],
-      "title": "EasyConnect VPN 第三方客户端"
+      "title": "实用程序"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T17:23:52.692Z",
+    "last_updated": "2026-08-19T12:34:13.809Z",
     "original_repository": "hitszosa/awesome-hitsz",
+    "original_repository_id": 477724348,
     "original_repository_sha": "26c00407071d4f32e18858a1ca1c41d64c8805a8",
     "enhanced_repository": "enhansome/enhansome-hitsz",
     "enhanced_repository_description": null,
