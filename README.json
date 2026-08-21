@@ -53,7 +53,7 @@
                 "last_commit": "2025-03-10T12:39:45Z",
                 "owner": "YangLaTeX",
                 "repo": "hitszthesis",
-                "stars": 359
+                "stars": 360
               }
             },
             {
@@ -96,7 +96,7 @@
                 "last_commit": "2025-02-04T03:36:05Z",
                 "owner": "StupidTrees",
                 "repo": "HITA_X",
-                "stars": 70
+                "stars": 71
               }
             },
             {
@@ -227,7 +227,7 @@
                     "last_commit": "2026-08-17T14:12:02Z",
                     "owner": "chenx-dust",
                     "repo": "EZ4Connect",
-                    "stars": 431
+                    "stars": 433
                   }
                 }
               ],
@@ -235,10 +235,10 @@
                 "archived": false,
                 "id": 595927717,
                 "language": "Go",
-                "last_commit": "2026-08-18T14:52:27Z",
+                "last_commit": "2026-08-21T17:14:20Z",
                 "owner": "Mythologyli",
                 "repo": "zju-connect",
-                "stars": 731
+                "stars": 733
               }
             }
           ],
@@ -251,7 +251,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T17:25:21.696Z",
+    "last_updated": "2026-08-21T17:25:45.565Z",
     "original_repository": "hitszosa/awesome-hitsz",
     "original_repository_id": 477724348,
     "original_repository_sha": "26c00407071d4f32e18858a1ca1c41d64c8805a8",
