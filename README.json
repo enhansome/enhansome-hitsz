@@ -15,7 +15,7 @@
             "last_commit": "2025-10-26T13:38:03Z",
             "owner": "HITSZ-OpenCS",
             "repo": "HITSZ-OpenCS",
-            "stars": 1904
+            "stars": 1905
           }
         },
         {
@@ -224,10 +224,10 @@
                     "archived": false,
                     "id": 834064081,
                     "language": "C++",
-                    "last_commit": "2026-08-17T14:12:02Z",
+                    "last_commit": "2026-08-22T15:59:06Z",
                     "owner": "chenx-dust",
                     "repo": "EZ4Connect",
-                    "stars": 433
+                    "stars": 434
                   }
                 }
               ],
@@ -235,7 +235,7 @@
                 "archived": false,
                 "id": 595927717,
                 "language": "Go",
-                "last_commit": "2026-08-21T17:14:20Z",
+                "last_commit": "2026-08-22T15:34:24Z",
                 "owner": "Mythologyli",
                 "repo": "zju-connect",
                 "stars": 733
@@ -251,7 +251,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T17:25:45.565Z",
+    "last_updated": "2026-08-22T17:17:48.702Z",
     "original_repository": "hitszosa/awesome-hitsz",
     "original_repository_id": 477724348,
     "original_repository_sha": "26c00407071d4f32e18858a1ca1c41d64c8805a8",
