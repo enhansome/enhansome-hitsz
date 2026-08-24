@@ -32,6 +32,21 @@
             "repo": "HITSZ-OpenDS",
             "stars": 154
           }
+        },
+        {
+          "node_type": "item",
+          "title": "bugstop/hitsz-eie-codes",
+          "description": "：电信学院通信工程部分实验课程代码仓库",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 265879739,
+            "language": "VHDL",
+            "last_commit": "2026-08-20T06:05:25Z",
+            "owner": "muhac",
+            "repo": "hitsz-eie-codes",
+            "stars": 32
+          }
         }
       ],
       "title": "课程攻略（本科）"
@@ -75,6 +90,28 @@
           "description": null,
           "node_type": "group",
           "title": "学位论文"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "YangLaTeX/hitszbeamer",
+              "description": "：适用于 $\\LaTeX$",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 247718958,
+                "language": "TeX",
+                "last_commit": "2022-05-20T12:58:04Z",
+                "owner": "YangLaTeX",
+                "repo": "hitszbeamer",
+                "stars": 39
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "幻灯片"
         }
       ],
       "title": "报告、幻灯片模版"
@@ -207,7 +244,7 @@
                 "last_commit": "2026-03-11T01:46:06Z",
                 "owner": "docker-easyconnect",
                 "repo": "docker-easyconnect",
-                "stars": 5420
+                "stars": 5425
               }
             },
             {
@@ -227,7 +264,7 @@
                     "last_commit": "2026-08-23T14:49:18Z",
                     "owner": "chenx-dust",
                     "repo": "EZ4Connect",
-                    "stars": 434
+                    "stars": 435
                   }
                 }
               ],
@@ -235,23 +272,45 @@
                 "archived": false,
                 "id": 595927717,
                 "language": "Go",
-                "last_commit": "2026-08-23T15:03:13Z",
+                "last_commit": "2026-08-23T17:36:40Z",
                 "owner": "Mythologyli",
                 "repo": "zju-connect",
-                "stars": 735
+                "stars": 738
               }
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "EasyConnect VPN 第三方客户端"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Clouder0/pecalc",
+              "description": "：体测分数计算器",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 642885023,
+                "language": "C++",
+                "last_commit": "2025-10-25T18:36:40Z",
+                "owner": "Clouder0",
+                "repo": "pecalc",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "其他"
         }
       ],
       "title": "实用程序"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T17:17:42.817Z",
+    "last_updated": "2026-08-24T14:47:45.593Z",
     "original_repository": "hitszosa/awesome-hitsz",
     "original_repository_id": 477724348,
     "original_repository_sha": "26c00407071d4f32e18858a1ca1c41d64c8805a8",
