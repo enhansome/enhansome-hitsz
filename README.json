@@ -261,7 +261,7 @@
                     "archived": false,
                     "id": 834064081,
                     "language": "C++",
-                    "last_commit": "2026-08-23T14:49:18Z",
+                    "last_commit": "2026-08-24T16:53:41Z",
                     "owner": "chenx-dust",
                     "repo": "EZ4Connect",
                     "stars": 435
@@ -272,7 +272,7 @@
                 "archived": false,
                 "id": 595927717,
                 "language": "Go",
-                "last_commit": "2026-08-23T17:36:40Z",
+                "last_commit": "2026-08-24T16:54:09Z",
                 "owner": "Mythologyli",
                 "repo": "zju-connect",
                 "stars": 738
@@ -310,7 +310,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:47:45.593Z",
+    "last_updated": "2026-08-24T17:27:53.098Z",
     "original_repository": "hitszosa/awesome-hitsz",
     "original_repository_id": 477724348,
     "original_repository_sha": "26c00407071d4f32e18858a1ca1c41d64c8805a8",
