@@ -244,7 +244,7 @@
                 "last_commit": "2026-03-11T01:46:06Z",
                 "owner": "docker-easyconnect",
                 "repo": "docker-easyconnect",
-                "stars": 5425
+                "stars": 5428
               }
             },
             {
@@ -261,7 +261,7 @@
                     "archived": false,
                     "id": 834064081,
                     "language": "C++",
-                    "last_commit": "2026-08-24T16:53:41Z",
+                    "last_commit": "2026-08-24T18:48:05Z",
                     "owner": "chenx-dust",
                     "repo": "EZ4Connect",
                     "stars": 435
@@ -272,7 +272,7 @@
                 "archived": false,
                 "id": 595927717,
                 "language": "Go",
-                "last_commit": "2026-08-24T16:54:09Z",
+                "last_commit": "2026-08-24T17:49:44Z",
                 "owner": "Mythologyli",
                 "repo": "zju-connect",
                 "stars": 738
@@ -310,7 +310,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T17:27:53.098Z",
+    "last_updated": "2026-08-25T06:40:01.036Z",
     "original_repository": "hitszosa/awesome-hitsz",
     "original_repository_id": 477724348,
     "original_repository_sha": "26c00407071d4f32e18858a1ca1c41d64c8805a8",
