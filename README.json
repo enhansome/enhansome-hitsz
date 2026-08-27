@@ -244,7 +244,7 @@
                 "last_commit": "2026-03-11T01:46:06Z",
                 "owner": "docker-easyconnect",
                 "repo": "docker-easyconnect",
-                "stars": 5429
+                "stars": 5433
               }
             },
             {
@@ -275,7 +275,7 @@
                 "last_commit": "2026-08-26T17:02:35Z",
                 "owner": "Mythologyli",
                 "repo": "zju-connect",
-                "stars": 745
+                "stars": 746
               }
             }
           ],
@@ -310,9 +310,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T18:56:56.902Z",
-    "original_repository": "hitszosa/awesome-hitsz",
-    "original_repository_id": 477724348,
+    "last_updated": "2026-08-27T11:45:44.710Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 477724348,
+      "language": null,
+      "last_commit": "2025-09-14T08:10:16Z",
+      "owner": "hitszosa",
+      "repo": "awesome-hitsz",
+      "stars": 57
+    },
     "original_repository_sha": "26c00407071d4f32e18858a1ca1c41d64c8805a8",
     "enhanced_repository": "enhansome/enhansome-hitsz",
     "enhanced_repository_description": null,
