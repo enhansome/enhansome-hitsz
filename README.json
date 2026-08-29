@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "哈尔滨工业大学（深圳）计算机专业课程攻略 | Guidance for courses in Department of Computer Science, Harbin Institute of Technology (Shenzhen)",
+            "homepage": null,
             "id": 344710309,
             "language": "C",
+            "license": null,
             "last_commit": "2025-10-26T13:38:03Z",
+            "open_issues": 3,
             "owner": "HITSZ-OpenCS",
             "repo": "HITSZ-OpenCS",
-            "stars": 1905
+            "stars": 1905,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:51:12.000Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "哈尔滨工业大学（深圳）数据科学与大数据技术专业课程攻略 | Guidance for courses in Department of Data Science and Big Data Technology, Harbin Institute of Technology (Shenzhen)",
+            "homepage": null,
             "id": 425513627,
             "language": "HTML",
+            "license": null,
             "last_commit": "2024-08-05T18:09:26Z",
+            "open_issues": 0,
             "owner": "Mor-Li",
             "repo": "HITSZ-OpenDS",
-            "stars": 154
+            "stars": 154,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:51:12.000Z"
         },
@@ -42,12 +52,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "哈工大深圳 电信学院 通信工程 部分实验课程代码仓库",
+            "homepage": "https://muhac.github.io/hitsz-eie-codes/CommunicationSecurity/AES/",
             "id": 265879739,
             "language": "VHDL",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-20T06:05:25Z",
+            "open_issues": 0,
             "owner": "muhac",
             "repo": "hitsz-eie-codes",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "communication-engineering",
+              "electrical-engineering"
+            ]
           },
           "first_seen": "2026-08-29T00:51:12.000Z"
         }
@@ -66,12 +84,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A dissertation template for Harbin Institute of Technology, ShenZhen (HITSZ), including bachelor, master and doctor dissertations.",
+                "homepage": "https://yanglatex.github.io/hitszthesis/",
                 "id": 240280273,
                 "language": "TeX",
+                "license": "LPPL-1.3c",
                 "last_commit": "2025-03-10T12:39:45Z",
+                "open_issues": 9,
                 "owner": "YangLaTeX",
                 "repo": "hitszthesis",
-                "stars": 360
+                "stars": 360,
+                "topics": [
+                  "dissertation",
+                  "dissertation-template",
+                  "latex",
+                  "latex-document",
+                  "latex-style",
+                  "latex-template"
+                ]
               },
               "first_seen": "2026-08-29T00:51:12.000Z"
             },
@@ -82,12 +112,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "哈尔滨工业大学 Typst 论文模板",
+                "homepage": "https://typst.app/universe/package/universal-hit-thesis",
                 "id": 640575755,
                 "language": "Typst",
+                "license": "MIT",
                 "last_commit": "2026-07-21T16:01:40Z",
+                "open_issues": 9,
                 "owner": "hitszosa",
                 "repo": "universal-hit-thesis",
-                "stars": 61
+                "stars": 61,
+                "topics": [
+                  "harbin-institute-of-technology",
+                  "hit",
+                  "thesis",
+                  "thesis-template",
+                  "typst",
+                  "typst-package",
+                  "typst-template"
+                ]
               },
               "first_seen": "2026-08-29T00:51:12.000Z"
             }
@@ -105,12 +148,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A beamer theme for Harbin Institute of Technology, ShenZhen",
+                "homepage": null,
                 "id": 247718958,
                 "language": "TeX",
+                "license": "LPPL-1.3c",
                 "last_commit": "2022-05-20T12:58:04Z",
+                "open_issues": 0,
                 "owner": "YangLaTeX",
                 "repo": "hitszbeamer",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "beamer",
+                  "beamer-theme",
+                  "latex"
+                ]
               },
               "first_seen": "2026-08-29T00:51:12.000Z"
             }
@@ -134,12 +186,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HITA课表（HITSZ助手重构版）",
+                "homepage": null,
                 "id": 323308967,
                 "language": "Kotlin",
+                "license": null,
                 "last_commit": "2025-02-04T03:36:05Z",
+                "open_issues": 17,
                 "owner": "StupidTrees",
                 "repo": "HITA_X",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:51:12.000Z"
             },
@@ -150,12 +207,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "jw converter: 将某校教务平台的课表转换为 ICS 文件 ",
+                "homepage": null,
                 "id": 806107180,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-03-17T20:28:10Z",
+                "open_issues": 0,
                 "owner": "Zjl37",
                 "repo": "jwc.py",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "calendar",
+                  "course",
+                  "ics",
+                  "python",
+                  "schedule"
+                ]
               },
               "first_seen": "2026-08-29T00:51:12.000Z"
             },
@@ -166,12 +234,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "将哈工大（深圳）教务平台的课表转换为 ICS 文件",
+                "homepage": null,
                 "id": 776773178,
                 "language": "Jupyter Notebook",
+                "license": "GPL-3.0",
                 "last_commit": "2024-07-06T01:46:22Z",
+                "open_issues": 5,
                 "owner": "rewired-gh",
                 "repo": "hitsz_course_schedule_ics_converter",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "calendar",
+                  "course",
+                  "hitsz",
+                  "ics",
+                  "jupyter-notebook",
+                  "python",
+                  "schedule"
+                ]
               },
               "first_seen": "2026-08-29T00:51:12.000Z"
             },
@@ -182,12 +263,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "哈深课表转换到WakeUp课程表",
+                "homepage": null,
                 "id": 937431328,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-02-23T03:07:49Z",
+                "open_issues": 0,
                 "owner": "Danielement321",
                 "repo": "HITSZ_course_2_WakeUp",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:51:12.000Z"
             }
@@ -205,12 +291,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "无浏览器环境下登录校园网",
+                "homepage": null,
                 "id": 406283704,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-12-25T10:15:24Z",
+                "open_issues": 0,
                 "owner": "CH3CHOHCH3",
                 "repo": "NetworkLogin",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:51:12.000Z"
             },
@@ -226,12 +317,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "更适合哈工深宝宝体质的深澜校园网登录工具。现已支持 HIT SSO 登录。",
+                    "homepage": null,
                     "id": 1049877256,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2026-08-18T08:20:01Z",
+                    "open_issues": 1,
                     "owner": "DustinChen04",
                     "repo": "hitsz-srun-login",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:51:12.000Z"
                 }
@@ -251,12 +347,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "使深信服（Sangfor）开发的非自由的 VPN 软件 EasyConnect 和 aTrust 运行在 docker 或 podman 中，并作为网关和/或提供 socks5、http 代理服务",
+                "homepage": null,
                 "id": 262792027,
                 "language": "Shell",
+                "license": "WTFPL",
                 "last_commit": "2026-03-11T01:46:06Z",
+                "open_issues": 182,
                 "owner": "docker-easyconnect",
                 "repo": "docker-easyconnect",
-                "stars": 5438
+                "stars": 5438,
+                "topics": [
+                  "docker",
+                  "docker-container",
+                  "docker-image",
+                  "easyconnect",
+                  "maintainer-wanted",
+                  "podman",
+                  "podman-image",
+                  "sangfor",
+                  "sslvpn"
+                ]
               },
               "first_seen": "2026-08-29T00:51:12.000Z"
             },
@@ -272,24 +383,40 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ZJU-Connect 图形界面 - 支持 aTrust 和 EasyConnect 协议",
+                    "homepage": null,
                     "id": 834064081,
                     "language": "C++",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-24T18:48:05Z",
+                    "open_issues": 3,
                     "owner": "chenx-dust",
                     "repo": "EZ4Connect",
-                    "stars": 441
+                    "stars": 443,
+                    "topics": [
+                      "atrust",
+                      "easyconnect",
+                      "qt",
+                      "vpn",
+                      "zju-connect"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:51:12.000Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "ZJU RVPN 客户端的 Go 语言实现",
+                "homepage": null,
                 "id": 595927717,
                 "language": "Go",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-26T17:02:35Z",
+                "open_issues": 13,
                 "owner": "Mythologyli",
                 "repo": "zju-connect",
-                "stars": 745
+                "stars": 745,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:51:12.000Z"
             }
@@ -307,12 +434,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "哈深体测分数计算器",
+                "homepage": "https://pecalc.codein.icu",
                 "id": 642885023,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2025-10-25T18:36:40Z",
+                "open_issues": 0,
                 "owner": "Clouder0",
                 "repo": "pecalc",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "hitsz"
+                ]
               },
               "first_seen": "2026-08-29T00:51:12.000Z"
             }
@@ -326,15 +460,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:51:12.000Z",
+    "last_updated": "2026-08-29T05:03:17.865Z",
     "original_repository_info": {
       "archived": false,
+      "description": "HITSZ 有关的脚本、作业与笔记等资源合集",
+      "homepage": null,
       "id": 477724348,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2025-09-14T08:10:16Z",
+      "open_issues": 0,
       "owner": "hitszosa",
       "repo": "awesome-hitsz",
-      "stars": 57
+      "stars": 57,
+      "topics": [
+        "awesome-list",
+        "hitsz"
+      ]
     },
     "original_repository_sha": "26c00407071d4f32e18858a1ca1c41d64c8805a8",
     "enhanced_repository": "enhansome/enhansome-hitsz",
