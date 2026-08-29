@@ -16,7 +16,8 @@
             "owner": "HITSZ-OpenCS",
             "repo": "HITSZ-OpenCS",
             "stars": 1905
-          }
+          },
+          "first_seen": "2026-08-29T00:51:12.000Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "Mor-Li",
             "repo": "HITSZ-OpenDS",
             "stars": 154
-          }
+          },
+          "first_seen": "2026-08-29T00:51:12.000Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "muhac",
             "repo": "hitsz-eie-codes",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-29T00:51:12.000Z"
         }
       ],
       "title": "课程攻略（本科）"
@@ -69,7 +72,8 @@
                 "owner": "YangLaTeX",
                 "repo": "hitszthesis",
                 "stars": 360
-              }
+              },
+              "first_seen": "2026-08-29T00:51:12.000Z"
             },
             {
               "node_type": "item",
@@ -83,8 +87,9 @@
                 "last_commit": "2026-07-21T16:01:40Z",
                 "owner": "hitszosa",
                 "repo": "universal-hit-thesis",
-                "stars": 62
-              }
+                "stars": 61
+              },
+              "first_seen": "2026-08-29T00:51:12.000Z"
             }
           ],
           "description": null,
@@ -106,7 +111,8 @@
                 "owner": "YangLaTeX",
                 "repo": "hitszbeamer",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-29T00:51:12.000Z"
             }
           ],
           "description": null,
@@ -134,7 +140,8 @@
                 "owner": "StupidTrees",
                 "repo": "HITA_X",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-29T00:51:12.000Z"
             },
             {
               "node_type": "item",
@@ -149,7 +156,8 @@
                 "owner": "Zjl37",
                 "repo": "jwc.py",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T00:51:12.000Z"
             },
             {
               "node_type": "item",
@@ -164,7 +172,8 @@
                 "owner": "rewired-gh",
                 "repo": "hitsz_course_schedule_ics_converter",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T00:51:12.000Z"
             },
             {
               "node_type": "item",
@@ -179,7 +188,8 @@
                 "owner": "Danielement321",
                 "repo": "HITSZ_course_2_WakeUp",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T00:51:12.000Z"
             }
           ],
           "description": null,
@@ -201,7 +211,8 @@
                 "owner": "CH3CHOHCH3",
                 "repo": "NetworkLogin",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T00:51:12.000Z"
             },
             {
               "node_type": "group",
@@ -221,7 +232,8 @@
                     "owner": "DustinChen04",
                     "repo": "hitsz-srun-login",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:51:12.000Z"
                 }
               ]
             }
@@ -244,8 +256,9 @@
                 "last_commit": "2026-03-11T01:46:06Z",
                 "owner": "docker-easyconnect",
                 "repo": "docker-easyconnect",
-                "stars": 5433
-              }
+                "stars": 5438
+              },
+              "first_seen": "2026-08-29T00:51:12.000Z"
             },
             {
               "node_type": "item",
@@ -264,8 +277,9 @@
                     "last_commit": "2026-08-24T18:48:05Z",
                     "owner": "chenx-dust",
                     "repo": "EZ4Connect",
-                    "stars": 438
-                  }
+                    "stars": 441
+                  },
+                  "first_seen": "2026-08-29T00:51:12.000Z"
                 }
               ],
               "repo_info": {
@@ -275,8 +289,9 @@
                 "last_commit": "2026-08-26T17:02:35Z",
                 "owner": "Mythologyli",
                 "repo": "zju-connect",
-                "stars": 746
-              }
+                "stars": 745
+              },
+              "first_seen": "2026-08-29T00:51:12.000Z"
             }
           ],
           "description": null,
@@ -298,7 +313,8 @@
                 "owner": "Clouder0",
                 "repo": "pecalc",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T00:51:12.000Z"
             }
           ],
           "description": null,
@@ -310,7 +326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:15:24.042Z",
+    "last_updated": "2026-08-29T00:51:12.000Z",
     "original_repository_info": {
       "archived": false,
       "id": 477724348,
