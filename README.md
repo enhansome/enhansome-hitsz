@@ -8,7 +8,7 @@
 
 包含电子版教材、笔记、试卷等，以下排名按项目创建时间升序：
 
-* 计算机专业：[HITSZ-OpenCS](https://github.com/HITSZ-OpenCS/HITSZ-OpenCS) ⭐ 1,905 | 🐛 3 | 🌐 C | 📅 2025-10-26
+* 计算机专业：[HITSZ-OpenCS](https://github.com/HITSZ-OpenCS/HITSZ-OpenCS) ⭐ 1,907 | 🐛 3 | 🌐 C | 📅 2025-10-26
 
 * 大数据专业：[Dseidhit/HITSZ-OpenDS](https://github.com/Dseidhit/HITSZ-OpenDS) ⭐ 154 | 🐛 0 | 🌐 HTML | 📅 2024-08-05
 
@@ -54,16 +54,16 @@
 * [CH3CHOHCH3/NetworkLogin](https://github.com/CH3CHOHCH3/NetworkLogin) ⭐ 15 | 🐛 0 | 🌐 JavaScript | 📅 2023-12-25
 
 * 博客介绍：[新版 HITSZ 校园网的无头登录方式 - HITSZ 自动化课程攻略共享计划](https://hoa.moe/blog/hitsz-net-login-with-sso/)
-  * [PageChen04/hitsz-srun-login](https://github.com/PageChen04/hitsz-srun-login) ⭐ 11 | 🐛 1 | 🌐 Go | 📅 2026-08-18：完全独立的登录程序
+  * [PageChen04/hitsz-srun-login](https://github.com/PageChen04/hitsz-srun-login) ⭐ 12 | 🐛 1 | 🌐 Go | 📅 2026-08-18：完全独立的登录程序
   * [PageChen04/hitsz-net-login.user.js](https://gist.github.com/PageChen04/b1937e74d118ce02d9ed5a77e2ce3c93)：截获回调的 Userscript
 
 ### EasyConnect VPN 第三方客户端
 
-* [docker-easyconnect](https://github.com/Hagb/docker-easyconnect) ⭐ 5,438 | 🐛 182 | 🌐 Shell | 📅 2026-03-11
+* [docker-easyconnect](https://github.com/Hagb/docker-easyconnect) ⭐ 5,442 | 🐛 182 | 🌐 Shell | 📅 2026-03-11
   * 使用 Docker 封装 EasyConnect，为宿主机提供 SOCKS5 和 HTTP 代理服务。该项目可以结合 Chrome 插件 ProxyOmega 使用，允许用户灵活管理和切换代理设置。
 
 * [Mythologyli/zju-connect](https://github.com/Mythologyli/zju-connect) ⭐ 745 | 🐛 13 | 🌐 Go | 📅 2026-08-26
-  * 或者使用预先配置好的桌面客户端 [chenx-dust/HITsz-Connect-for-Windows](https://github.com/chenx-dust/HITsz-Connect-for-Windows) ⭐ 443 | 🐛 3 | 🌐 C++ | 📅 2026-08-24
+  * 或者使用预先配置好的桌面客户端 [chenx-dust/HITsz-Connect-for-Windows](https://github.com/chenx-dust/HITsz-Connect-for-Windows) ⭐ 445 | 🐛 2 | 🌐 C++ | 📅 2026-08-24
   * 需要将 `server_address` 配置为 `vpn.hitsz.ed.cn`，`zju_dns_server` 配置为 `10.248.98.30`
 
 ### 其他
