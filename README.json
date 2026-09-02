@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "HITSZ-OpenCS",
             "repo": "HITSZ-OpenCS",
-            "stars": 1912,
+            "stars": 1914,
             "topics": []
           },
           "first_seen": "2026-08-29T00:51:12.000Z"
@@ -93,7 +93,7 @@
                 "open_issues": 9,
                 "owner": "YangLaTeX",
                 "repo": "hitszthesis",
-                "stars": 362,
+                "stars": 363,
                 "topics": [
                   "dissertation",
                   "dissertation-template",
@@ -118,7 +118,7 @@
                 "language": "Typst",
                 "license": "MIT",
                 "last_commit": "2026-07-21T16:01:40Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "hitszosa",
                 "repo": "universal-hit-thesis",
                 "stars": 61,
@@ -356,7 +356,7 @@
                 "open_issues": 182,
                 "owner": "docker-easyconnect",
                 "repo": "docker-easyconnect",
-                "stars": 5448,
+                "stars": 5451,
                 "topics": [
                   "docker",
                   "docker-container",
@@ -389,10 +389,10 @@
                     "language": "C++",
                     "license": "GPL-3.0",
                     "last_commit": "2026-08-24T18:48:05Z",
-                    "open_issues": 2,
+                    "open_issues": 3,
                     "owner": "chenx-dust",
                     "repo": "EZ4Connect",
-                    "stars": 452,
+                    "stars": 454,
                     "topics": [
                       "atrust",
                       "easyconnect",
@@ -415,7 +415,7 @@
                 "open_issues": 13,
                 "owner": "Mythologyli",
                 "repo": "zju-connect",
-                "stars": 750,
+                "stars": 751,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:51:12.000Z"
@@ -460,7 +460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T19:44:05.898Z",
+    "last_updated": "2026-09-02T19:37:24.553Z",
     "original_repository_info": {
       "archived": false,
       "description": "HITSZ 有关的脚本、作业与笔记等资源合集",
