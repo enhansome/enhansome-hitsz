@@ -356,7 +356,7 @@
                 "open_issues": 182,
                 "owner": "docker-easyconnect",
                 "repo": "docker-easyconnect",
-                "stars": 5455,
+                "stars": 5460,
                 "topics": [
                   "docker",
                   "docker-container",
@@ -460,7 +460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T19:38:10.730Z",
+    "last_updated": "2026-09-04T19:16:51.467Z",
     "original_repository_info": {
       "archived": false,
       "description": "HITSZ 有关的脚本、作业与笔记等资源合集",
