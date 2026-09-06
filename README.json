@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "HITSZ-OpenCS",
             "repo": "HITSZ-OpenCS",
-            "stars": 1917,
+            "stars": 1918,
             "topics": []
           },
           "first_seen": "2026-08-29T00:51:12.000Z"
@@ -356,7 +356,7 @@
                 "open_issues": 182,
                 "owner": "docker-easyconnect",
                 "repo": "docker-easyconnect",
-                "stars": 5462,
+                "stars": 5463,
                 "topics": [
                   "docker",
                   "docker-container",
@@ -411,11 +411,11 @@
                 "id": 595927717,
                 "language": "Go",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-03T14:10:34Z",
-                "open_issues": 13,
+                "last_commit": "2026-09-06T05:38:49Z",
+                "open_issues": 11,
                 "owner": "Mythologyli",
                 "repo": "zju-connect",
-                "stars": 750,
+                "stars": 751,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:51:12.000Z"
@@ -460,7 +460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T18:46:07.345Z",
+    "last_updated": "2026-09-06T18:49:59.679Z",
     "original_repository_info": {
       "archived": false,
       "description": "HITSZ 有关的脚本、作业与笔记等资源合集",
