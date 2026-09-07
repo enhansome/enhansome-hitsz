@@ -93,7 +93,7 @@
                 "open_issues": 9,
                 "owner": "YangLaTeX",
                 "repo": "hitszthesis",
-                "stars": 365,
+                "stars": 366,
                 "topics": [
                   "dissertation",
                   "dissertation-template",
@@ -356,7 +356,7 @@
                 "open_issues": 182,
                 "owner": "docker-easyconnect",
                 "repo": "docker-easyconnect",
-                "stars": 5463,
+                "stars": 5466,
                 "topics": [
                   "docker",
                   "docker-container",
@@ -389,10 +389,10 @@
                     "language": "C++",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-03T15:38:46Z",
-                    "open_issues": 3,
+                    "open_issues": 4,
                     "owner": "chenx-dust",
                     "repo": "EZ4Connect",
-                    "stars": 456,
+                    "stars": 458,
                     "topics": [
                       "atrust",
                       "easyconnect",
@@ -411,11 +411,11 @@
                 "id": 595927717,
                 "language": "Go",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-06T05:38:49Z",
-                "open_issues": 11,
+                "last_commit": "2026-09-07T15:46:36Z",
+                "open_issues": 12,
                 "owner": "Mythologyli",
                 "repo": "zju-connect",
-                "stars": 751,
+                "stars": 752,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:51:12.000Z"
@@ -460,7 +460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T18:49:59.679Z",
+    "last_updated": "2026-09-07T20:21:21.420Z",
     "original_repository_info": {
       "archived": false,
       "description": "HITSZ 有关的脚本、作业与笔记等资源合集",
