@@ -8,9 +8,9 @@
 
 包含电子版教材、笔记、试卷等，以下排名按项目创建时间升序：
 
-* 计算机专业：[HITSZ-OpenCS](https://github.com/HITSZ-OpenCS/HITSZ-OpenCS) ⭐ 1,918 | 🐛 3 | 🌐 C | 📅 2025-10-26
+* 计算机专业：[HITSZ-OpenCS](https://github.com/HITSZ-OpenCS/HITSZ-OpenCS) ⭐ 1,917 | 🐛 3 | 🌐 C | 📅 2025-10-26
 
-* 大数据专业：[Dseidhit/HITSZ-OpenDS](https://github.com/Dseidhit/HITSZ-OpenDS) ⭐ 154 | 🐛 0 | 🌐 HTML | 📅 2024-08-05
+* 大数据专业：[Dseidhit/HITSZ-OpenDS](https://github.com/Dseidhit/HITSZ-OpenDS) ⭐ 153 | 🐛 0 | 🌐 HTML | 📅 2024-08-05
 
 * 自动化专业：组织 [HITSZ-OpenAuto](https://github.com/HITSZ-OpenAuto) 或项目网址 [hoa.moe](https://hoa.moe)
 
@@ -29,7 +29,7 @@
 ### 学位论文
 
 * [YangLaTeX/hitszthesis](https://github.com/YangLaTeX/hitszthesis) ⭐ 368 | 🐛 9 | 🌐 TeX | 📅 2025-03-10：适用于 $\LaTeX$
-* [hitszosa/universal-hit-thesis](https://github.com/hitszosa/universal-hit-thesis) ⭐ 60 | 🐛 10 | 🌐 Typst | 📅 2026-07-21：适用于 Typst
+* [hitszosa/universal-hit-thesis](https://github.com/hitszosa/universal-hit-thesis) ⭐ 60 | 🐛 10 | 🌐 Typst | 📅 2026-09-24：适用于 Typst
 
 ### 幻灯片
 
@@ -95,4 +95,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
