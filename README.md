@@ -43,7 +43,7 @@
 
 ### 课表
 
-* [StupidTrees/HITA\_X](https://github.com/StupidTrees/HITA_X) ⭐ 71 | 🐛 17 | 🌐 Kotlin | 📅 2025-02-04：Android 课表 app
+* [StupidTrees/HITA\_X](https://github.com/StupidTrees/HITA_X) ⭐ 72 | 🐛 17 | 🌐 Kotlin | 📅 2025-02-04：Android 课表 app
 * [Zjl37/jwc.py](https://github.com/Zjl37/jwc.py) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2026-03-17：教务课表转 ICS；大物实验排课辅助
 * [rewired-gh/hitsz\_course\_schedule\_ics\_converter](https://github.com/rewired-gh/hitsz_course_schedule_ics_converter) ⭐ 12 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2024-07-06：自动获取与 ICS 生成脚本
 * [Danielement321/HITSZ\_course\_2\_WakeUp](https://github.com/Danielement321/HITSZ_course_2_WakeUp) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2025-02-23：本研课表转换到 WakeUp 课表
@@ -59,11 +59,11 @@
 
 ### EasyConnect VPN 第三方客户端
 
-* [docker-easyconnect](https://github.com/Hagb/docker-easyconnect) ⭐ 5,514 | 🐛 183 | 🌐 Shell | 📅 2026-03-11
+* [docker-easyconnect](https://github.com/Hagb/docker-easyconnect) ⭐ 5,518 | 🐛 183 | 🌐 Shell | 📅 2026-03-11
   * 使用 Docker 封装 EasyConnect，为宿主机提供 SOCKS5 和 HTTP 代理服务。该项目可以结合 Chrome 插件 ProxyOmega 使用，允许用户灵活管理和切换代理设置。
 
-* [Mythologyli/zju-connect](https://github.com/Mythologyli/zju-connect) ⭐ 772 | 🐛 13 | 🌐 Go | 📅 2026-09-22
-  * 或者使用预先配置好的桌面客户端 [chenx-dust/HITsz-Connect-for-Windows](https://github.com/chenx-dust/HITsz-Connect-for-Windows) ⭐ 492 | 🐛 5 | 🌐 C++ | 📅 2026-09-08
+* [Mythologyli/zju-connect](https://github.com/Mythologyli/zju-connect) ⭐ 775 | 🐛 13 | 🌐 Go | 📅 2026-09-22
+  * 或者使用预先配置好的桌面客户端 [chenx-dust/HITsz-Connect-for-Windows](https://github.com/chenx-dust/HITsz-Connect-for-Windows) ⭐ 493 | 🐛 5 | 🌐 C++ | 📅 2026-09-08
   * 需要将 `server_address` 配置为 `vpn.hitsz.ed.cn`，`zju_dns_server` 配置为 `10.248.98.30`
 
 ### 其他
@@ -95,4 +95,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
