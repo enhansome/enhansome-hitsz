@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "HITSZ-OpenCS",
             "repo": "HITSZ-OpenCS",
-            "stars": 1917,
+            "stars": 1918,
             "topics": []
           },
           "first_seen": "2026-08-29T00:51:12.000Z"
@@ -93,7 +93,7 @@
                 "open_issues": 9,
                 "owner": "YangLaTeX",
                 "repo": "hitszthesis",
-                "stars": 368,
+                "stars": 369,
                 "topics": [
                   "dissertation",
                   "dissertation-template",
@@ -356,7 +356,7 @@
                 "open_issues": 183,
                 "owner": "docker-easyconnect",
                 "repo": "docker-easyconnect",
-                "stars": 5518,
+                "stars": 5522,
                 "topics": [
                   "docker",
                   "docker-container",
@@ -392,7 +392,7 @@
                     "open_issues": 5,
                     "owner": "chenx-dust",
                     "repo": "EZ4Connect",
-                    "stars": 493,
+                    "stars": 496,
                     "topics": [
                       "atrust",
                       "easyconnect",
@@ -411,11 +411,11 @@
                 "id": 595927717,
                 "language": "Go",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-22T06:12:23Z",
-                "open_issues": 13,
+                "last_commit": "2026-09-29T04:14:30Z",
+                "open_issues": 12,
                 "owner": "Mythologyli",
                 "repo": "zju-connect",
-                "stars": 775,
+                "stars": 777,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:51:12.000Z"
@@ -460,7 +460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T22:23:27.395Z",
+    "last_updated": "2026-09-29T21:15:22.164Z",
     "original_repository_info": {
       "archived": false,
       "description": "HITSZ 有关的脚本、作业与笔记等资源合集",
