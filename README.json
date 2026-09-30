@@ -157,7 +157,7 @@
                 "open_issues": 0,
                 "owner": "YangLaTeX",
                 "repo": "hitszbeamer",
-                "stars": 39,
+                "stars": 40,
                 "topics": [
                   "beamer",
                   "beamer-theme",
@@ -356,7 +356,7 @@
                 "open_issues": 183,
                 "owner": "docker-easyconnect",
                 "repo": "docker-easyconnect",
-                "stars": 5522,
+                "stars": 5525,
                 "topics": [
                   "docker",
                   "docker-container",
@@ -389,10 +389,10 @@
                     "language": "C++",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-08T05:10:26Z",
-                    "open_issues": 5,
+                    "open_issues": 6,
                     "owner": "chenx-dust",
                     "repo": "EZ4Connect",
-                    "stars": 496,
+                    "stars": 498,
                     "topics": [
                       "atrust",
                       "easyconnect",
@@ -412,10 +412,10 @@
                 "language": "Go",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-29T04:14:30Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "Mythologyli",
                 "repo": "zju-connect",
-                "stars": 777,
+                "stars": 778,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:51:12.000Z"
@@ -460,7 +460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T21:15:22.164Z",
+    "last_updated": "2026-09-30T21:11:48.121Z",
     "original_repository_info": {
       "archived": false,
       "description": "HITSZ 有关的脚本、作业与笔记等资源合集",
