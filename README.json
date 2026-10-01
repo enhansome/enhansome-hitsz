@@ -322,7 +322,7 @@
                     "id": 1049877256,
                     "language": "Go",
                     "license": "MIT",
-                    "last_commit": "2026-08-18T08:20:01Z",
+                    "last_commit": "2026-10-01T16:28:59Z",
                     "open_issues": 1,
                     "owner": "DustinChen04",
                     "repo": "hitsz-srun-login",
@@ -356,7 +356,7 @@
                 "open_issues": 183,
                 "owner": "docker-easyconnect",
                 "repo": "docker-easyconnect",
-                "stars": 5525,
+                "stars": 5529,
                 "topics": [
                   "docker",
                   "docker-container",
@@ -392,7 +392,7 @@
                     "open_issues": 6,
                     "owner": "chenx-dust",
                     "repo": "EZ4Connect",
-                    "stars": 498,
+                    "stars": 499,
                     "topics": [
                       "atrust",
                       "easyconnect",
@@ -460,7 +460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T21:11:48.121Z",
+    "last_updated": "2026-10-01T21:33:18.446Z",
     "original_repository_info": {
       "archived": false,
       "description": "HITSZ 有关的脚本、作业与笔记等资源合集",
