@@ -392,7 +392,7 @@
                     "open_issues": 6,
                     "owner": "chenx-dust",
                     "repo": "EZ4Connect",
-                    "stars": 499,
+                    "stars": 500,
                     "topics": [
                       "atrust",
                       "easyconnect",
@@ -460,7 +460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T21:33:18.446Z",
+    "last_updated": "2026-10-02T21:08:23.908Z",
     "original_repository_info": {
       "archived": false,
       "description": "HITSZ 有关的脚本、作业与笔记等资源合集",
