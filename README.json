@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "计算机专业：HITSZ-OpenCS",
-          "description": null,
+          "description": "HITSZ-OpenCS/HITSZ-OpenCS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -27,7 +27,7 @@
         {
           "node_type": "item",
           "title": "大数据专业：Dseidhit/HITSZ-OpenDS",
-          "description": null,
+          "description": "Mor-Li/HITSZ-OpenDS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -287,7 +287,7 @@
             {
               "node_type": "item",
               "title": "CH3CHOHCH3/NetworkLogin",
-              "description": null,
+              "description": "CH3CHOHCH3/NetworkLogin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -343,7 +343,7 @@
             {
               "node_type": "item",
               "title": "docker-easyconnect",
-              "description": null,
+              "description": "docker-easyconnect/docker-easyconnect",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -374,12 +374,12 @@
             {
               "node_type": "item",
               "title": "Mythologyli/zju-connect",
-              "description": null,
+              "description": "Mythologyli/zju-connect",
               "children": [
                 {
                   "node_type": "item",
                   "title": "或者使用预先配置好的桌面客户端 chenx-dust/HITsz-Connect-for-Windows",
-                  "description": null,
+                  "description": "chenx-dust/EZ4Connect",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -392,7 +392,7 @@
                     "open_issues": 6,
                     "owner": "chenx-dust",
                     "repo": "EZ4Connect",
-                    "stars": 500,
+                    "stars": 501,
                     "topics": [
                       "atrust",
                       "easyconnect",
@@ -460,7 +460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:08:23.908Z",
+    "last_updated": "2026-10-03T04:48:55.833Z",
     "original_repository_info": {
       "archived": false,
       "description": "HITSZ 有关的脚本、作业与笔记等资源合集",
