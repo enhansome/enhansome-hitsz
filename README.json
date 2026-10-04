@@ -353,10 +353,10 @@
                 "language": "Shell",
                 "license": "WTFPL",
                 "last_commit": "2026-03-11T01:46:06Z",
-                "open_issues": 183,
+                "open_issues": 184,
                 "owner": "docker-easyconnect",
                 "repo": "docker-easyconnect",
-                "stars": 5531,
+                "stars": 5534,
                 "topics": [
                   "docker",
                   "docker-container",
@@ -460,7 +460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T19:39:52.691Z",
+    "last_updated": "2026-10-04T19:53:37.197Z",
     "original_repository_info": {
       "archived": false,
       "description": "HITSZ 有关的脚本、作业与笔记等资源合集",
