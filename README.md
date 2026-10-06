@@ -8,7 +8,7 @@
 
 包含电子版教材、笔记、试卷等，以下排名按项目创建时间升序：
 
-* 计算机专业：[HITSZ-OpenCS](https://github.com/HITSZ-OpenCS/HITSZ-OpenCS) ⭐ 1,921 | 🐛 3 | 🌐 C | 📅 2025-10-26
+* 计算机专业：[HITSZ-OpenCS](https://github.com/HITSZ-OpenCS/HITSZ-OpenCS) ⭐ 1,922 | 🐛 3 | 🌐 C | 📅 2025-10-26
 
 * 大数据专业：[Dseidhit/HITSZ-OpenDS](https://github.com/Dseidhit/HITSZ-OpenDS) ⭐ 153 | 🐛 0 | 🌐 HTML | 📅 2024-08-05
 
