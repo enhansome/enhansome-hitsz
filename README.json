@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "HITSZ-OpenCS",
             "repo": "HITSZ-OpenCS",
-            "stars": 1923,
+            "stars": 1924,
             "topics": []
           },
           "first_seen": "2026-08-29T00:51:12.000Z"
@@ -389,7 +389,7 @@
                     "language": "C++",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-08T05:10:26Z",
-                    "open_issues": 7,
+                    "open_issues": 6,
                     "owner": "chenx-dust",
                     "repo": "EZ4Connect",
                     "stars": 504,
@@ -415,7 +415,7 @@
                 "open_issues": 9,
                 "owner": "Mythologyli",
                 "repo": "zju-connect",
-                "stars": 783,
+                "stars": 785,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:51:12.000Z"
@@ -460,7 +460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T21:48:33.294Z",
+    "last_updated": "2026-10-09T21:28:02.262Z",
     "original_repository_info": {
       "archived": false,
       "description": "HITSZ 有关的脚本、作业与笔记等资源合集",
