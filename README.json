@@ -392,7 +392,7 @@
                     "open_issues": 14,
                     "owner": "chenx-dust",
                     "repo": "EZ4Connect",
-                    "stars": 524,
+                    "stars": 525,
                     "topics": [
                       "atrust",
                       "easyconnect",
@@ -415,7 +415,7 @@
                 "open_issues": 17,
                 "owner": "Mythologyli",
                 "repo": "zju-connect",
-                "stars": 804,
+                "stars": 808,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:51:12.000Z"
@@ -460,7 +460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T20:11:39.025Z",
+    "last_updated": "2026-10-24T19:14:02.928Z",
     "original_repository_info": {
       "archived": false,
       "description": "HITSZ 有关的脚本、作业与笔记等资源合集",
