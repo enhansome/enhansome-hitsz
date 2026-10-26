@@ -356,7 +356,7 @@
                 "open_issues": 185,
                 "owner": "docker-easyconnect",
                 "repo": "docker-easyconnect",
-                "stars": 5571,
+                "stars": 5574,
                 "topics": [
                   "docker",
                   "docker-container",
@@ -392,7 +392,7 @@
                     "open_issues": 14,
                     "owner": "chenx-dust",
                     "repo": "EZ4Connect",
-                    "stars": 525,
+                    "stars": 528,
                     "topics": [
                       "atrust",
                       "easyconnect",
@@ -415,7 +415,7 @@
                 "open_issues": 17,
                 "owner": "Mythologyli",
                 "repo": "zju-connect",
-                "stars": 809,
+                "stars": 810,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:51:12.000Z"
@@ -460,7 +460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T19:26:17.492Z",
+    "last_updated": "2026-10-26T21:19:37.163Z",
     "original_repository_info": {
       "archived": false,
       "description": "HITSZ 有关的脚本、作业与笔记等资源合集",
