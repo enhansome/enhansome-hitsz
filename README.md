@@ -28,7 +28,7 @@
 
 ### 学位论文
 
-* [YangLaTeX/hitszthesis](https://github.com/YangLaTeX/hitszthesis) ⭐ 372 | 🐛 9 | 🌐 TeX | 📅 2025-03-10：适用于 $\LaTeX$
+* [YangLaTeX/hitszthesis](https://github.com/YangLaTeX/hitszthesis) ⭐ 371 | 🐛 9 | 🌐 TeX | 📅 2025-03-10：适用于 $\LaTeX$
 * [hitszosa/universal-hit-thesis](https://github.com/hitszosa/universal-hit-thesis) ⭐ 61 | 🐛 10 | 🌐 Typst | 📅 2026-09-24：适用于 Typst
 
 ### 幻灯片
@@ -59,10 +59,10 @@
 
 ### EasyConnect VPN 第三方客户端
 
-* [docker-easyconnect](https://github.com/Hagb/docker-easyconnect) ⭐ 5,574 | 🐛 185 | 🌐 Shell | 📅 2026-03-11
+* [docker-easyconnect](https://github.com/Hagb/docker-easyconnect) ⭐ 5,576 | 🐛 185 | 🌐 Shell | 📅 2026-03-11
   * 使用 Docker 封装 EasyConnect，为宿主机提供 SOCKS5 和 HTTP 代理服务。该项目可以结合 Chrome 插件 ProxyOmega 使用，允许用户灵活管理和切换代理设置。
 
-* [Mythologyli/zju-connect](https://github.com/Mythologyli/zju-connect) ⭐ 810 | 🐛 17 | 🌐 Go | 📅 2026-10-08
+* [Mythologyli/zju-connect](https://github.com/Mythologyli/zju-connect) ⭐ 812 | 🐛 17 | 🌐 Go | 📅 2026-10-08
   * 或者使用预先配置好的桌面客户端 [chenx-dust/HITsz-Connect-for-Windows](https://github.com/chenx-dust/HITsz-Connect-for-Windows) ⭐ 528 | 🐛 14 | 🌐 C++ | 📅 2026-09-08
   * 需要将 `server_address` 配置为 `vpn.hitsz.ed.cn`，`zju_dns_server` 配置为 `10.248.98.30`
 
@@ -95,4 +95,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
