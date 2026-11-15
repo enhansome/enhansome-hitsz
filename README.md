@@ -8,7 +8,7 @@
 
 包含电子版教材、笔记、试卷等，以下排名按项目创建时间升序：
 
-* 计算机专业：[HITSZ-OpenCS](https://github.com/HITSZ-OpenCS/HITSZ-OpenCS) ⭐ 1,932 | 🐛 3 | 🌐 C | 📅 2025-10-26
+* 计算机专业：[HITSZ-OpenCS](https://github.com/HITSZ-OpenCS/HITSZ-OpenCS) ⭐ 1,931 | 🐛 3 | 🌐 C | 📅 2025-10-26
 
 * 大数据专业：[Dseidhit/HITSZ-OpenDS](https://github.com/Dseidhit/HITSZ-OpenDS) ⭐ 154 | 🐛 0 | 🌐 HTML | 📅 2024-08-05
 
@@ -45,7 +45,7 @@
 
 * [StupidTrees/HITA\_X](https://github.com/StupidTrees/HITA_X) ⭐ 71 | 🐛 17 | 🌐 Kotlin | 📅 2025-02-04：Android 课表 app
 * [Zjl37/jwc.py](https://github.com/Zjl37/jwc.py) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2026-03-17：教务课表转 ICS；大物实验排课辅助
-* [rewired-gh/hitsz\_course\_schedule\_ics\_converter](https://github.com/rewired-gh/hitsz_course_schedule_ics_converter) ⭐ 12 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2024-07-06：自动获取与 ICS 生成脚本
+* [rewired-gh/hitsz\_course\_schedule\_ics\_converter](https://github.com/rewired-gh/hitsz_course_schedule_ics_converter) ⭐ 11 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2024-07-06：自动获取与 ICS 生成脚本
 * [Danielement321/HITSZ\_course\_2\_WakeUp](https://github.com/Danielement321/HITSZ_course_2_WakeUp) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2025-02-23：本研课表转换到 WakeUp 课表
 * [doby.tech](https://doby.tech)：课表 CalDAV 服务平台
 
@@ -59,11 +59,11 @@
 
 ### EasyConnect VPN 第三方客户端
 
-* [docker-easyconnect](https://github.com/Hagb/docker-easyconnect) ⭐ 5,605 | 🐛 185 | 🌐 Shell | 📅 2026-03-11
+* [docker-easyconnect](https://github.com/Hagb/docker-easyconnect) ⭐ 5,606 | 🐛 185 | 🌐 Shell | 📅 2026-03-11
   * 使用 Docker 封装 EasyConnect，为宿主机提供 SOCKS5 和 HTTP 代理服务。该项目可以结合 Chrome 插件 ProxyOmega 使用，允许用户灵活管理和切换代理设置。
 
-* [Mythologyli/zju-connect](https://github.com/Mythologyli/zju-connect) ⭐ 830 | 🐛 16 | 🌐 Go | 📅 2026-11-01
-  * 或者使用预先配置好的桌面客户端 [chenx-dust/HITsz-Connect-for-Windows](https://github.com/chenx-dust/HITsz-Connect-for-Windows) ⭐ 548 | 🐛 15 | 🌐 C++ | 📅 2026-09-08
+* [Mythologyli/zju-connect](https://github.com/Mythologyli/zju-connect) ⭐ 829 | 🐛 16 | 🌐 Go | 📅 2026-11-01
+  * 或者使用预先配置好的桌面客户端 [chenx-dust/HITsz-Connect-for-Windows](https://github.com/chenx-dust/HITsz-Connect-for-Windows) ⭐ 549 | 🐛 15 | 🌐 C++ | 📅 2026-09-08
   * 需要将 `server_address` 配置为 `vpn.hitsz.ed.cn`，`zju_dns_server` 配置为 `10.248.98.30`
 
 ### 其他
@@ -95,4 +95,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
