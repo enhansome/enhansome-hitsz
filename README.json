@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "HITSZ-OpenCS",
             "repo": "HITSZ-OpenCS",
-            "stars": 1931,
+            "stars": 1934,
             "topics": []
           },
           "first_seen": "2026-08-29T00:51:12.000Z"
@@ -93,7 +93,7 @@
                 "open_issues": 9,
                 "owner": "YangLaTeX",
                 "repo": "hitszthesis",
-                "stars": 371,
+                "stars": 370,
                 "topics": [
                   "dissertation",
                   "dissertation-template",
@@ -121,7 +121,7 @@
                 "open_issues": 10,
                 "owner": "hitszosa",
                 "repo": "universal-hit-thesis",
-                "stars": 61,
+                "stars": 60,
                 "topics": [
                   "harbin-institute-of-technology",
                   "hit",
@@ -356,7 +356,7 @@
                 "open_issues": 185,
                 "owner": "docker-easyconnect",
                 "repo": "docker-easyconnect",
-                "stars": 5611,
+                "stars": 5612,
                 "topics": [
                   "docker",
                   "docker-container",
@@ -392,7 +392,7 @@
                     "open_issues": 15,
                     "owner": "chenx-dust",
                     "repo": "EZ4Connect",
-                    "stars": 550,
+                    "stars": 552,
                     "topics": [
                       "atrust",
                       "easyconnect",
@@ -415,7 +415,7 @@
                 "open_issues": 16,
                 "owner": "Mythologyli",
                 "repo": "zju-connect",
-                "stars": 831,
+                "stars": 830,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:51:12.000Z"
@@ -460,7 +460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T00:38:07.575Z",
+    "last_updated": "2026-11-17T23:43:47.745Z",
     "original_repository_info": {
       "archived": false,
       "description": "HITSZ 有关的脚本、作业与笔记等资源合集",
